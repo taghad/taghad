@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning  computer engineering [AUT](https://https://aut.ac.ir).
 <!--
 **taghad/taghad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif)
 
 
 - 🔭 I’m currently working on Meghyas
@@ -15,4 +16,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif)
